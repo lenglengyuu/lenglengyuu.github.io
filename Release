@@ -1,0 +1,8 @@
+Origin: lenglengyu
+Label: lenglengyu
+Suite: stable
+Version: 6.0
+Codename: lenglengyu
+Architecture: iphoneos-arm
+Components: main
+Description: lenglengyu Tweaks
