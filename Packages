@@ -1,0 +1,16 @@
+Package: com.yourepo.lenglengyu.supervip
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences, ws.hbang.common (>= 1.11)
+Conflicts: com.yourepo.lenglengyu.avhelp, com.yourepo.lenglengyu.videoplayer
+Filename: ./debs/com.yourepo.lenglengyu.supervip_1.0.4_iphoneos-arm.deb
+Size: 533624
+MD5sum: 2339e56c8eb67e5c61a6b0c5e7a2c2e3
+SHA1: 9eb3548095cfd52f737c08fda799758c0e2baf2b
+SHA256: f351f249eb3660582f470a16d63d432652c048bcbeefbf2bb887879367cd2523
+Section: 会员专区
+Description: 超级影视助手，av无限看，直播破解收费，影视会员，视频去广告。
+Author: lenglengyu <lenglengyu@126.com>
+Name: SuperVIP
+
